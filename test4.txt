@@ -1,1 +1,2 @@
 wysłanie na github
+drugi commit na github
